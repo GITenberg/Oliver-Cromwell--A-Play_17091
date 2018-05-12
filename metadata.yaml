@@ -1,0 +1,27 @@
+_repo: Oliver-Cromwell--A-Play_17091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: ''
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cromwell, Oliver, 1599-1658 -- Drama'
+title: 'Oliver Cromwell: A Play'
+url: http://www.gutenberg.org/ebooks/17091
